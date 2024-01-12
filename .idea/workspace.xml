@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c168a799-cd1d-49b4-be62-baa31e71c181" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ReadProperties/ConfigProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ReadProperties/PropertiesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Yoomoney/MainPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/kuCoinApi/StreamApiExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/kuCoinApi/TickerComparatorLow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/kuCoinApi/TickerData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/kuCoinApi/TickerShort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/reqres/ReqresNoPojoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/reqres/ReqresPojoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/reqres/Text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/reqres/colors/ColorsData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/reqres/users/UserData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/reqres/users/UserTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/reqres/users/UserTimeResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/spec/Specifications.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/spec/registration/Register.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/spec/registration/SuccessReg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api/spec/registration/UnSuccessReg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/appleInsider/AppleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/appleInsider/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/appleInsider/SearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/appleInsider/Text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/core/BaseSeleniumPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/core/BaseSeleniumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/core/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/helpDesk/HelpDeskTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/helpDesk/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/helpDesk/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/helpDesk/TicketPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/helpDesk/TicketsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/helpers/StringModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/helpers/TestValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/labirint/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/labirint/LabirintBookPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/labirint/LabirintTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/labirint/Text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/sms/NumberPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/sms/PhoneData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/sms/SmsApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/sms/SmsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/wiki/WikiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/application.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ZJVm4LgeuGKPLa5FJXmawgsYc1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/MyTEST",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\MyTEST\src\test\java\api\reqres" />
+      <recent name="C:\Users\User\IdeaProjects\MyTEST\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SmsTest.checkBalance">
+    <configuration name="HelpDeskTest.checkTicket" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyTEST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="helpDesk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="helpDesk" />
+      <option name="MAIN_CLASS_NAME" value="helpDesk.HelpDeskTest" />
+      <option name="METHOD_NAME" value="checkTicket" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmsTest.checkBalance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyTEST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="sms" />
+      <option name="MAIN_CLASS_NAME" value="sms.SmsTest" />
+      <option name="METHOD_NAME" value="checkBalance" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamApiExample.checkCrypto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyTEST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.kuCoinApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api.kuCoinApi" />
+      <option name="MAIN_CLASS_NAME" value="api.kuCoinApi.StreamApiExample" />
+      <option name="METHOD_NAME" value="checkCrypto" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamApiExample.map" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyTEST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.kuCoinApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api.kuCoinApi" />
+      <option name="MAIN_CLASS_NAME" value="api.kuCoinApi.StreamApiExample" />
+      <option name="METHOD_NAME" value="map" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamApiExample.sortHighToLow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MyTEST" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api.kuCoinApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api.kuCoinApi" />
+      <option name="MAIN_CLASS_NAME" value="api.kuCoinApi.StreamApiExample" />
+      <option name="METHOD_NAME" value="sortHighToLow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SmsTest.checkBalance" />
+        <item itemvalue="JUnit.StreamApiExample.map" />
+        <item itemvalue="JUnit.StreamApiExample.sortHighToLow" />
+        <item itemvalue="JUnit.StreamApiExample.checkCrypto" />
+        <item itemvalue="JUnit.HelpDeskTest.checkTicket" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c168a799-cd1d-49b4-be62-baa31e71c181" name="Changes" comment="" />
+      <created>1702140324845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702140324845</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
